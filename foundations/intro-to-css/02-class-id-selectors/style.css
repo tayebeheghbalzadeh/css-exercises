@@ -1,0 +1,16 @@
+.odd{
+    background-color: hsl(313, 84%, 75%);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#second{
+    color: rgb(00, 00, 255);
+    font-size: 36px;
+}
+.odd.addition{
+    font-size: 24px;
+}
+#another{
+    background-color: #8be9a2;
+    font-size: 24px;
+    font-weight: bold;
+}
